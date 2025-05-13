@@ -1,0 +1,26 @@
+<2hs-3hs de viaje
+Conurbano -> 8
+Ciudad de Bs As -> 7
+La Plata -> 2
+
+Buenos Aires = 17
+60%
+--------------------
+>2-3hs
+Santa Fe -> 4
+Cordoba -> 3
+Interior Bs As -> 1
+
+Pampa = 8
+30%
+----------------------
+>8hs
+Mendoza -> 1
+Santiago del Estero -> 1
+Tucuman -> 1
+
+Noroeste = 3
+10%
+
+Total 28teams
+
